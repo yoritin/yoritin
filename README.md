@@ -1,5 +1,5 @@
 ## HELLO
-- php
+- PHP7
 - Laravel
 - JavaScript
 - Vue.js
