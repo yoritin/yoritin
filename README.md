@@ -6,3 +6,6 @@
 - Vue.js
 - Nuxt.js
 - AWS
+
+## me
+[Twitter](https://twitter.com/yoriblog)
