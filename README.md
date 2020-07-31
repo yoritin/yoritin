@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin)
 
 ## me🌵
 - [Twitter](https://twitter.com/yoriblog)
