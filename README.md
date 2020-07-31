@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=highcontrast)
 
 ## me🌵
 - [Twitter](https://twitter.com/yoriblog)
