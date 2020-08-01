@@ -4,7 +4,7 @@
 PHP / Laravel / JavaScript / Vue.js / AWS
 
 ## 📝 learning
-TypeScript / Nuxt.js / Go / GCP / firebase / NoSQL
+TypeScript / Nuxt.js / Go / GCP / Firebase / NoSQL
 
 ## 🌵 me
 - [Twitter](https://twitter.com/yoriblog)
