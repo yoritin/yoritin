@@ -1,9 +1,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=cobalt)
 
-## 🔨skill
+## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
 
-## 📝learning
+## 📝 learning
 TypeScript / Nuxt.js / Go / GCP / firebase / NoSQL
 
 ## 🌵me
