@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight)
 
 ## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
