@@ -1,6 +1,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=tokyonight)
 
 ## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
