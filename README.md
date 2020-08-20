@@ -4,6 +4,10 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=tokyonight)
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yoriblog/posts.svg)](http://qiita.com/yoriblog)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yoriblog/contributions.svg)](http://qiita.com/yoriblog)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yoriblog/followers.svg)](http://qiita.com/yoriblog)
+
 ## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
 
@@ -12,11 +16,6 @@ PHP / Laravel / JavaScript / Vue.js / AWS
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-## Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yoriblog/posts.svg)](http://qiita.com/yoriblog)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yoriblog/contributions.svg)](http://qiita.com/yoriblog)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/yoriblog/followers.svg)](http://qiita.com/yoriblog)
 
 ## 📝 learning
 TypeScript / Nuxt.js / Go / Firebase
