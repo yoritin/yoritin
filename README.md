@@ -1,12 +1,12 @@
 # I'm a developer who loves plants.🌱
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight&layout=compact)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=tokyonight)
-
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yoriblog/posts.svg)](http://qiita.com/yoriblog)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yoriblog/contributions.svg)](http://qiita.com/yoriblog)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/yoriblog/followers.svg)](http://qiita.com/yoriblog)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=tokyonight)
 
 ## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
