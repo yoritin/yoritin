@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/yoritin/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoritin&bg_color=30,e56443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoritin&bg_color=333,904e95&title_color=fff&text_color=fff)
 
 ## 🔨 skill
 PHP / Laravel / JavaScript / Vue.js / AWS
