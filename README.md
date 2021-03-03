@@ -5,7 +5,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/yoriblog/followers.svg)](http://qiita.com/yoriblog)
 
 ![Top Langes](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&layout=compact)](https://github.com/yoritin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoritin&theme=tokyonight&layout=compact)](https://github.com/yoritin/github-readme-stats)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoritin&show_icons=true&theme=tokyonight)
